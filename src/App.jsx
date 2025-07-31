@@ -37,7 +37,7 @@ function NavMenu() {
   return (
     <nav className="nav-menu">
       <ul className="nav-links">
-        <li><Link to="/" className="nav-link">Home</Link></li>
+        <li><Link to="/" className="nav-link">Home page </Link></li>
         <li><Link to="/about" className="nav-link">About</Link></li>
         <li><Link to="/services" className="nav-link">Courses</Link></li>
         <li><Link to="/contact" className="nav-link">Contact</Link></li>
