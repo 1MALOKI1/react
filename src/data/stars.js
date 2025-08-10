@@ -22,7 +22,7 @@ export const starData = [
   {
     id: 4,
     title: "يوم لا ينسى",
-    date: "اكتب تاريخًا هنا",
+    date: "ا
     position: { top: '80%', left: '65%' }
   }
 ];
